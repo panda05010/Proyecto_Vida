@@ -1,0 +1,292 @@
+a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 10%;
+    margin-left: 3%;
+}
+
+.navbar {
+    background-color:rgb(10, 10, 10) !important;
+}
+
+.navul {
+    margin-right: 3%;
+}
+
+.jumborow {
+    display: flex;
+    background-image: url('https://th.bing.com/th/id/R.ca9037a366d599bcf4a6f0f508c4fd93?rik=bLsSgrH0n%2bJb0w&riu=http%3a%2f%2fpa1.narvii.com%2f6311%2f482642a58e6a3cec46c4fe875bd1973016feb54a_hq.gif&ehk=RuLw5qtbB1A%2fxrurRJM8GZbhmhxCVSiS28YcyOy6J%2bo%3d&risl=&pid=ImgRaw&r=0');
+    row-gap: 100px;
+    background-size: cover;
+}
+
+.jumbocol {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin-left: 0%;
+    text-align: justify;
+}
+
+.profileimg {
+    display: flex;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.title {
+    font-weight: 700;
+    width: 100%;
+}
+
+.subheader {
+    font-weight: 600;
+    margin-left: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 100%;
+}
+
+.ctabutton {
+    display: flex;
+    justify-content: center; 
+    padding: 10px 40px 10px 40px;
+    width: 20%;
+    background-color: #03d3d3;
+    font-weight: 700;
+}
+
+.ctabutton:hover {
+    border-style: solid;
+    border-color: rgb(3, 211, 211);
+    color: white;
+    background-color: black;
+    width: 50%;
+    transition: 0.6s;
+}
+
+.certdiv {
+    background-color: black;
+}
+
+.certh1 {
+    color: white;
+    margin-left: 7%;
+    margin-top: 5%;
+}
+
+.badges {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.badgeh6 {
+    margin-top: 5%;
+    color: white;
+}
+
+.badgerow {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.badgecol {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.carddiv {
+    background-color: black;
+    color: white;
+}
+
+.proyectitle {
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    width: 90%;
+}
+
+.cardrow {
+    display: flex;
+    flex-direction: column;
+}
+
+.cardcol{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(10, 10, 10);
+    padding-bottom: 2%;
+}
+
+.cardtitle {
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.description {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.cardimg {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.cardimg1 {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cardimg2 {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cardimg3 {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cardimg4{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.iconimg {
+    width: 25px;
+    height: 25px;
+}
+
+.tech6 {
+    margin-top: 3%;
+}
+
+.contactinput {
+    background:none;
+    border-style: solid;
+    border-color:#03d3d3;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    line-height: 30px;
+    padding-top: 1%;
+    margin-top:1%;
+    width: 40%;
+    color: white;
+    outline:none ;
+}
+
+.contactinput:focus {
+    width: 60%;
+    transition: 0.6s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {  
+    display: flex;    
+    background-color: rgb(10, 10, 10);
+    color:gray; 
+}
+
+.footerrow {       
+    width: 95%; 
+    align-items: center;
+    align-content: center; 
+    margin-left: 5%;
+    margin-top: 5%;      
+}
+
+.footerlogo {
+    width: 55px;
+    height: 55px;    
+}
+
+.footerul {
+    display: inline; 
+    font-size: 12px;
+    list-style: none;
+    margin-bottom:40%;     
+}
+
+.footerul1{  
+    display: inline; 
+    font-size: 12px;
+    list-style: none;
+    margin-bottom:40%;  
+    padding-bottom: 20px;     
+}
+
+.footerlink {    
+    text-decoration: none;
+    color: rgb(185, 184, 184);
+    font-weight: 500;    
+}
+
+.copyrigth {
+    font-size: 10px;    
+    padding-top: 3%;
+}
+
+.social {
+    display: flex;
+    justify-content: space-around;    
+    margin-top: 2%;
+    width: 150px
+}
+
+.socialicon {
+    border-style: solid;
+}
+
+.info{    
+    font-size: 12px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.bottomline {
+    margin-top: 5%;
+}
+
+.paymentcol {
+    display: flex;
+    float:right;
+    justify-content: end;   
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
